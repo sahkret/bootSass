@@ -3,4 +3,17 @@ $theme-colors: (
         "secondary": #eb53ff
 );
 
+$theme-colors: map-remove(
+                $theme-colors, "info", "light", "dark"
+);
+
+$body-bg: #6c757d;
+
+$spacer: 1.5rem;
+
+$enable-shadows: true;
+
+$enable-responsive-font-sizes: true;
+
+@import "../modals/modals";
 @import "../node_modules/bootstrap/scss/bootstrap";
