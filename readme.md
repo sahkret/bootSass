@@ -1,0 +1,1 @@
+Hi, this is a great big mess, but it should all be functional!<br><br>We have a Bootstrapped HTML with just a few small examples thereof, some custom Sass to go along with it, as well as a hot jQuery plugin for modal functionality, all minified, with sourcemapping, and added to Gulp build and watch functions.<br><br>Now fight me!
